@@ -1,4 +1,4 @@
-# Swiggy SQL Analytics Project
+# SQL Analytics Project
 
 A compact SQL case study analyzing Swiggy food-delivery data to understand **what users order, where demand comes from, pricing patterns, and which dishes & restaurants drive engagement**.
 
